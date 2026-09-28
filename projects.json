@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Checkout Platform",
+    "use_shared": true,
+    "contribute": true
+  },
+  {
+    "name": "Mobile Banking App",
+    "use_shared": true,
+    "contribute": true
+  },
+  {
+    "name": "as",
+    "use_shared": true,
+    "contribute": true
+  }
+]
